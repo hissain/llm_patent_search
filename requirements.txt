@@ -1,0 +1,7 @@
+langchain-community
+duckduckgo-search
+googlesearch-python
+streamlit
+langchain-google-genai
+langchain-ollama
+requests
